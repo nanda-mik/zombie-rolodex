@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zombie-rolodex/static/css/main.731e213c.chunk.css",
+    "main.js": "/zombie-rolodex/static/js/main.0358ab7f.chunk.js",
+    "main.js.map": "/zombie-rolodex/static/js/main.0358ab7f.chunk.js.map",
+    "runtime-main.js": "/zombie-rolodex/static/js/runtime-main.031e1498.js",
+    "runtime-main.js.map": "/zombie-rolodex/static/js/runtime-main.031e1498.js.map",
+    "static/js/2.24db0491.chunk.js": "/zombie-rolodex/static/js/2.24db0491.chunk.js",
+    "static/js/2.24db0491.chunk.js.map": "/zombie-rolodex/static/js/2.24db0491.chunk.js.map",
+    "index.html": "/zombie-rolodex/index.html",
+    "precache-manifest.21617f44cdb4485468cfc418561cc9bc.js": "/zombie-rolodex/precache-manifest.21617f44cdb4485468cfc418561cc9bc.js",
+    "service-worker.js": "/zombie-rolodex/service-worker.js",
+    "static/css/main.731e213c.chunk.css.map": "/zombie-rolodex/static/css/main.731e213c.chunk.css.map",
+    "static/js/2.24db0491.chunk.js.LICENSE.txt": "/zombie-rolodex/static/js/2.24db0491.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.031e1498.js",
+    "static/js/2.24db0491.chunk.js",
+    "static/css/main.731e213c.chunk.css",
+    "static/js/main.0358ab7f.chunk.js"
+  ]
+}
